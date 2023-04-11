@@ -1,7 +1,7 @@
 # QuizV2
 
-Grupo:
+#Grupo:
 
-Jefte Kerison
-Laylla Alencar
-Leonardo Saraiva
+#Jefte Kerison
+#Laylla Alencar
+#Leonardo Saraiva
